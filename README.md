@@ -226,4 +226,10 @@ sf erase <offset> <length>
 tftp <address> <filename> [<length>]
 ```
 
+# Referências
+
+http://marcusjenkins.com/hacking-cheap-ebay-ip-camera/
+https://felipe.astroza.cl/hacking-hi3518-based-ip-camera/
+https://acassis.wordpress.com/2014/08/10/i-got-a-new-hi3518-ip-camera-modules/
+http://users.atw.hu/balubati/blog/index.php?m=08&y=16&d=14&entry=entry160814-112800&category=22&PHPSESSID=0b10a4f7a41993e01049d5cb17ea70b5
 
